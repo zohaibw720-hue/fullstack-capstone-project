@@ -1,4 +1,10 @@
-◇ injected env (3) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+$ cd giftlink-backend/util/import-mongo
+$ npm start
+
+> import-mongo@1.0.0 start
+> node import.js
+
+◇ injected env (3) from .env
 Connected to MongoDB
 Inserted 16 documents into the gifts collection
 Total documents in giftdb.gifts: 16
